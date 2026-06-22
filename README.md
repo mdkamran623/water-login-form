@@ -2,8 +2,6 @@
 
 A stunning, fully responsive animated login form with a water ripple effect. Built with HTML, CSS, and JavaScript.
 
-![Preview](https://images.unsplash.com/photo-1555412654-72a95a495858?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
-
 ---
 
 ## ✨ Features
@@ -45,3 +43,15 @@ A stunning, fully responsive animated login form with a water ripple effect. Bui
 ---
 
 ## 📂 Project Structure
+
+├── index.html # Complete single-file application
+└── README.md # Project documentation
+
+
+
+👨‍💻 Author
+MD KAMRAN
+
+<a href="https://github.com/mdkamran623">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
