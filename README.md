@@ -25,10 +25,12 @@ A stunning, fully responsive animated login form with a water ripple effect. Bui
 ## 📸 Screenshots
 
 ### Login Form
-![Login Form](screenshots/login-form.png)
+![Login Form](<img width="831" height="738" alt="water-login" src="https://github.com/user-attachments/assets/f8d674d3-2bc0-47e7-b904-b6b73c17df79" />
+)
 
 ### Thank You Message
-![Thank You Message](screenshots/thank-you.png)
+![Thank You Message](<img width="744" height="651" alt="Thank you login" src="https://github.com/user-attachments/assets/6681ec5b-80b3-47af-a009-657ec3034b62" />
+)
 
 ---
 
@@ -45,6 +47,12 @@ A stunning, fully responsive animated login form with a water ripple effect. Bui
 ## 📂 Project Structure
 
 ├── index.html # Complete single-file application
+
+
+
+
+
+
 └── README.md # Project documentation
 
 
